@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/2018/03/04/first-post/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -15,6 +20,12 @@
   <url>
     <loc>/</loc>
     <lastmod>2018-03-03T21:48:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

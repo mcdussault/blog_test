@@ -20,5 +20,14 @@
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
+    <item>
+      <title>First Post!</title>
+      <link>/2018/03/04/first-post/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/04/first-post/</guid>
+      <description>This is my First Post!</description>
+    </item>
+    
   </channel>
 </rss>

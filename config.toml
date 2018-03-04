@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://inspiring-leakey-70f9b6.netlify.com/"
 languageCode = "en-us"
 title = "Marie's website"
 theme = "hugo-lithium-theme"
